@@ -2,6 +2,7 @@
 Fork of https://wordpress.org/plugins/wysiwyg-widgets/ by dannyvankooten with added check box to use the exact markup in your entry
 
 === Widget Content Blocks ===
+
 Contributors: DvanKooten
 Donate link: https://dannyvankooten.com/donate/
 Tags: widget,visual editor,image widget,visual,tinymce,fckeditor,widgets,rich text,wysiwyg,html
