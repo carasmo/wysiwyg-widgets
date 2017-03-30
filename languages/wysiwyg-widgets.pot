@@ -1,0 +1,145 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WYSIWYG Widgets\n"
+"POT-Creation-Date: 2017-03-30 13:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Danny van Kooten <hi@dannyvankooten.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../.\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION"
+
+#: includes/plugin.php:26 includes/plugin.php:37
+msgid "Widget Blocks"
+msgstr ""
+
+#: includes/plugin.php:27
+msgid "Widget Block"
+msgstr ""
+
+#: includes/plugin.php:28 includes/plugin.php:31
+msgid "New Widget Block"
+msgstr ""
+
+#: includes/plugin.php:29
+msgid "Add New Widget Block"
+msgstr ""
+
+#: includes/plugin.php:30
+msgid "Edit Widget Block"
+msgstr ""
+
+#: includes/plugin.php:32
+msgid "All Widget Blocks"
+msgstr ""
+
+#: includes/plugin.php:33
+msgid "View Widget Block"
+msgstr ""
+
+#: includes/plugin.php:34
+msgid "Search Widget Blocks"
+msgstr ""
+
+#: includes/plugin.php:35 includes/class-widget.php:120
+msgid "No widget blocks found"
+msgstr ""
+
+#: includes/plugin.php:36
+msgid "No widget blocks found in Trash"
+msgstr ""
+
+#: includes/class-widget.php:12
+msgid "Displays one of your Widget Blocks."
+msgstr ""
+
+#: includes/class-widget.php:62
+msgid "Please select a Widget Block to show in this area."
+msgstr ""
+
+#: includes/class-widget.php:64
+#, php-format
+msgid ""
+"No widget block found with ID %d, please select an existing Widget Block in "
+"the widget settings."
+msgstr ""
+
+#: includes/class-widget.php:116
+msgid "Widget Block to show:"
+msgstr ""
+
+#: includes/class-widget.php:122
+msgid "Select a widget block"
+msgstr ""
+
+#: includes/class-widget.php:132
+msgid "Preserve Formatting?"
+msgstr ""
+
+#: includes/class-widget.php:136
+msgid "Show title?"
+msgstr ""
+
+#: includes/class-widget.php:139
+#, php-format
+msgid "Manage your widget blocks %shere%s"
+msgstr ""
+
+#: includes/class-admin.php:33
+msgid "More.."
+msgstr ""
+
+#: includes/class-admin.php:49
+msgid "How do I use this?"
+msgstr ""
+
+#: includes/class-admin.php:50
+#, php-format
+msgid ""
+"Show this widget block by going to your %swidgets page%s and then dragging "
+"the <strong>WYSIWYG Widget</strong> to one of your widget areas."
+msgstr ""
+
+#: includes/class-admin.php:54
+msgid "Rate this plugin"
+msgstr ""
+
+#: includes/class-admin.php:56
+msgid "Leave a &#9733;&#9733;&#9733;&#9733;&#9733; review on WordPress.org"
+msgstr ""
+
+#: includes/class-admin.php:57
+msgid "Vote \"works\" on the WordPress.org plugin page"
+msgstr ""
+
+#: includes/class-admin.php:62
+msgid "Other useful plugins"
+msgstr ""
+
+#. Name of the plugin
+msgid "Widget Content Blocks"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Adds a WYSIWYG Widget with a rich text editor and media upload functions."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://dannyvankooten.com/wordpress-plugins/wysiwyg-widgets/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Danny van Kooten"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://dvk.co/"
+msgstr ""
