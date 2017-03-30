@@ -1,4 +1,8 @@
+# wysiwyg-widgets
+Fork of https://wordpress.org/plugins/wysiwyg-widgets/ by dannyvankooten with added check box to use the exact markup in your entry
+
 === Widget Content Blocks ===
+
 Contributors: DvanKooten
 Donate link: https://dannyvankooten.com/donate/
 Tags: widget,visual editor,image widget,visual,tinymce,fckeditor,widgets,rich text,wysiwyg,html
@@ -77,6 +81,10 @@ Yes, totally. Donations are appreciated though!
 3. Drag the WYSIWYG Widget to one of your widget areas and select the Widget Block to show.
 
 == Changelog ==
+
+= 2.3.7 - September 29, 2016 =
+
+Added check box in widget instance to remove filters and allow just the raw html unformatted but with shortcodes.
 
 = 2.3.6 - September 29, 2016 =
 
